@@ -7,4 +7,5 @@ How it works:
 - Headers ans headers position need to be correct;
 - Just add the header `Cookie: ""`.
 
-Enjoy 😊
+Enjoy :O
+If you want to use this for a project please leave the credits ;)
