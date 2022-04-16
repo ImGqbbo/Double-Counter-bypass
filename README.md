@@ -7,6 +7,6 @@ How it works:
 - Headers ans headers position need to be correct;
 - Just add the header `Cookie: ""`.
 
-To contact me: 
-- Discord ImGqbbo#8568/https://discord.gg/TwVVfG6CA5
+# How to contact me?
+- Discord ImGqbbo#9549
 - Telegram https://t.me/ImGqbbo
